@@ -1,4 +1,4 @@
-# nodejs-1.Task
+# nodejs-Task 1
 Komut satırı kullanımı
 
 Çalıştırmak için komut satırına "node circleArea (herhangi bir değer girin)"
